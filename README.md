@@ -1,5 +1,5 @@
 <p align=center>
-  <img alt="icon" width="120" src="icon.png">
+  <img alt="icon" width="120" src="icon.svg">
   <br/>
   <a href="https://flosch.at">https://flosch.at/</a>
   <br/>
